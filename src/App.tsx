@@ -583,7 +583,7 @@ ${BRAND_CONFIG.name}`;
             <section className="relative h-[85vh] md:h-[90vh] bg-stone-900 flex items-center overflow-hidden">
               <div className="absolute inset-0 z-0">
                 <img 
-                  src="/src/images/assets/hero_leather_jacket_campaign_1791463841928.jpg" 
+                  src="/images/assets/hero_leather_jacket_campaign_1791463841928.jpg" 
                   alt="Leather Jack Campaign Studio" 
                   className="w-full h-full object-cover object-center opacity-70 transform scale-105 transition-transform duration-[10s]"
                   referrerPolicy="no-referrer"
