@@ -1,0 +1,6 @@
+{
+  "name": "Leather Jack Store",
+  "description": "Premium leather jackets crafted for timeless style, confidence, and everyday adventure. Fully responsive boutique shop with integrated WhatsApp checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
